@@ -1,0 +1,12 @@
+.receipt-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust height according to your layout */
+}
+
+.thermal-bill {
+  background-color: #ffffff; /* Set background color to white */
+  padding: 20px;
+  border: 1px solid #000000; /* Add border for thermal bill appearance */
+}
